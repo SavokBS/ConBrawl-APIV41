@@ -1,13 +1,28 @@
-ANDROID : https://www.mediafire.com/file/775ijd21sbsyb38/com.projectbsds.v41150.apk/file
+# ConBrawl
+
+- ConBrawl is private server that connects with BrawlStars API - BrawlStats
+
+Just put your API token and TAG of player in Configuration.py, but player must have ALL 54 BRAWLERS or server will not work.
+
+(If you can fix it, you are god.)
+
+[Click here to download the server](https://github.com/crossfireTeam/conbrawl/files/7944076/ConBrawl-APIV41.zip)
+
+[CLIENT, change ip in libmeow.js](https://www.mediafire.com/file/775ijd21sbsyb38/com.projectbsds.v41150.apk/file)
 
 ## Requirements: ##
-1. a brain...
+BrawlStats
 
-## How to run ##
-1. download it 
-2. uncompress it
-3. open the folder and run Core.py
+- pip install brawlstats
 
-## Change the ip address and port (if needed) in libmeow.js located in the lib folder ##
+## My Discord For Help ##
+[SaVok#7295](https://discord.gg/XhV3n8WkzN)
 
-![image](https://user-images.githubusercontent.com/52799759/147313954-e3185d78-da1b-4c9c-b700-c20c58af8633.png)
+
+This project is not serious. I just showed how you can combine the API and a private server to get an interesting result in the form of "presence" on the account of a popular personality in Brawl Stars
+, so if you like this project, pls star
+
+
+**Last Update: (29/01)**
+
+Add some helpful stuff for get any account 
